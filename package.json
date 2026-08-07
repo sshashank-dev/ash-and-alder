@@ -1,0 +1,35 @@
+{
+    "name": "drip-store",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@lottiefiles/dotlottie-react": "^0.19.13",
+        "@react-three/drei": "^10.7.6",
+        "@react-three/fiber": "^9.4.0",
+        "@react-three/postprocessing": "^3.0.4",
+        "@stripe/react-stripe-js": "^3.9.2",
+        "@stripe/stripe-js": "^7.8.0",
+        "@tailwindcss/postcss": "^4.3.3",
+        "axios": "^1.11.0",
+        "framer-motion": "^12.23.12",
+        "gsap": "^3.13.0",
+        "lucide-react": "^0.542.0",
+        "react": "^19.1.1",
+        "react-dom": "^19.1.1",
+        "react-router-dom": "^7.8.2",
+        "three": "^0.180.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^5.0.2",
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.6",
+        "tailwindcss": "^4.1.12",
+        "vite": "^7.1.3"
+    }
+}

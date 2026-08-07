@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sofa_Single
+* source:	https://sketchfab.com/3d-models/sofa-single-60e77ca11d414831a2c9b4e934021ec9
+* author:	tjddn1985 (https://sketchfab.com/tjddn1985)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sofa_Single" (https://sketchfab.com/3d-models/sofa-single-60e77ca11d414831a2c9b4e934021ec9) by tjddn1985 (https://sketchfab.com/tjddn1985) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Male mannequin
+* source:	https://sketchfab.com/3d-models/male-mannequin-ffe1b352d7d24b1c9734f0f8e9f692e7
+* author:	nattapong.imaree (https://sketchfab.com/nattapong.imaree)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Male mannequin" (https://sketchfab.com/3d-models/male-mannequin-ffe1b352d7d24b1c9734f0f8e9f692e7) by nattapong.imaree (https://sketchfab.com/nattapong.imaree) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
